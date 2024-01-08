@@ -2,7 +2,6 @@
 ### Olá! Sou o Paulo Victor
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/paulo-victor-10120a243/)
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=pvictor&show_icons=true&theme=radical)
 
 ## Tecnologia do meu dia a dia de estudo
 
